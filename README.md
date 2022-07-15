@@ -1,7 +1,7 @@
 <h1> <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px" width="1px">Howdy!, I am <a href="https://github.com/vishnu510">Vishnu</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="60px" width="30px"></h1>
 
   <a href="https://twitter.com/vishnupaldubey">
-    <img align="left" alt="Vishnu Pal DUbe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Vishnu Pal Dube | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/vishnu-pal-dubey-114237ab/">
     <img align="left" alt="Vishnu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
