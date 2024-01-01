@@ -18,7 +18,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 
-Hi, I'm Vishnu Pal Dubey, a software Developer 🎯 from India, currently, I'm a student of Netaji Subhas University of Technology persuing M.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I love to work for graphic design(E.g. Design Mobile Apps Screen, Vector Images, Logos etc.).
+Hi, I'm Vishnu Pal Dubey, a software Developer 🎯 from India, currently, I have done M.Tech from Netaji Subhas University of technology in Computer Science and Technology. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I love to work for graphic design(E.g. Design Mobile Apps Screen, Vector Images, Logos etc.).
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
